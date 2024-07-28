@@ -1,2 +1,6 @@
 Initial commit
+<<<<<<< HEAD
 Main branch change
+=======
+Feature 1
+>>>>>>> Add feature 1
